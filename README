@@ -1,0 +1,3 @@
+This is a ruby script that acts as a jabber bot connection to a todo.txt todo list.
+
+To use, setup your todo.txt file as described at todotxt.com. Setup the CLI to point to your text file (I have mine in Dropbox to access across multiple locations). Once your todo.txt file is set up & the todo.sh script has been installed & is working locally, just modify the config parameters at the top of todobot.rb then run.
